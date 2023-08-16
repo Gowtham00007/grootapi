@@ -1,0 +1,91 @@
+body {
+    background-color: #111827;
+}
+#input {
+    margin-top: 2rem;
+    background-color:#374151;
+    border-radius: 1rem;
+    border: 1px solid black;
+    height: 50vh;
+    width: 80%;
+    /* margin: 1rem; */
+    padding: 1rem;
+}
+/* .navdiv{
+    background-color:#374151;
+    height: 15vh;
+    width: 15vh;
+    border-radius: 5rem;
+    margin-top: 1rem;
+} */
+
+.outer{
+    padding: 1rem;
+    margin-top: 2rem;
+    background-color:#374151;
+    height: 12vh;
+    width: 90%;
+    border-radius: 1rem;
+
+}
+
+.output{
+    background-color: white;
+    height: 70%;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+#txt-input{
+    width: 100%;
+    border-radius: 0.4rem;
+}
+#input img{
+    object-fit: scale-down;
+    align-items: center;  
+    height: 30.5vh;
+    width: 100%;
+    margin-top: 0.5rem;
+    border-radius: 1rem;
+    
+    
+}
+#inline{
+    margin-top: 0.5rem;
+    background-color: white;
+    height: 12vh;
+    border-radius: 1rem;
+}
+
+.head-ul{
+    text-align: center;
+    list-style: none;
+    padding-inline-start: 0px;
+}
+
+.head-li{
+    text-align: center;
+    display: inline;
+    padding: 0rem 0.5rem;
+    
+}
+.head-li #ic1{
+    height: 3vh;
+    width: 3vh;
+}
+
+#btn-translate{
+    margin-top: 1rem;
+    padding: 0.5rem;
+    font-size: large;
+    border-radius: 1rem;
+
+}
+.outer2{
+    padding: 1rem;
+    margin-top: 2rem;
+    background-color:#374151;
+    height: 6vh;
+    width: 90%;
+    border-radius: 1rem;
+    color: white;
+}
