@@ -23,7 +23,7 @@ body {
     padding: 1rem;
     margin-top: 2rem;
     background-color:#374151;
-    height: 12vh;
+    height: 10vh;
     width: 90%;
     border-radius: 1rem;
 
@@ -84,7 +84,7 @@ body {
     padding: 1rem;
     margin-top: 2rem;
     background-color:#374151;
-    height: 10vh;
+    height: auto;
     width: 90%;
     border-radius: 1rem;
     color: white;
